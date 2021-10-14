@@ -1,0 +1,4 @@
+Youtube Tutorial Videos 
+
+SQL Tutorial - https://youtu.be/Cz3WcZLRaWc
+Connection Configuration - https://youtu.be/wzdCpJY6Y4c
